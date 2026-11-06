@@ -1,0 +1,32 @@
+# Vimma's built-in dark palette (VIMMA_DARK in packages/vimma-core/src/theme.mjs), from vimma.dev.
+mode = "dark"
+
+accent = "#2cf5d2"
+selection = "#123532"
+muted = "#234040"
+
+background = "#071011"
+dark_background = "#050c0d"
+darker_background = "#030708"
+lighter_background = "#0e1b1c"
+
+foreground = "#c2d6d3"
+dark_foreground = "#7f9a96"
+light_foreground = "#dbeae8"
+bright_foreground = "#f5fffd"
+
+red = "#ff6b6b"
+yellow = "#f2c94c"
+orange = "#f59e5b"
+green = "#9be37a"
+cyan = "#5cc8f0"
+blue = "#7b9cf5"
+magenta = "#ff4fb8"
+brown = "#a67c52"
+
+bright_red = "#ff8f8f"
+bright_yellow = "#ffdd7a"
+bright_green = "#c0f29e"
+bright_cyan = "#9af2e2"
+bright_blue = "#a9c0ff"
+bright_magenta = "#c79bf0"
