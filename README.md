@@ -23,12 +23,3 @@ theme's hints in its yellow, and its own built-in theme's in magenta.
 
 Mozilla Public License 2.0, as Vimma. The wallpapers use the Vimma logo.
 
-## Wallpapers
-
-`0-vimma-mark` and `1-vimma-grid` are drawn with ImageMagick; the terminal-style ones (`2-*` to
-`6-*`: a Vim start screen, a tmux window, the mode badges, link hints and hjkl) come from
-`tools/wallpapers.py`, which needs `rsvg-convert`, `magick` and the JetBrainsMono Nerd Font:
-
-```sh
-python3 tools/wallpapers.py
-```
