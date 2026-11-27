@@ -6,6 +6,8 @@ the terminal, editor, bar and lock screen match Vimma's own default theme.
 
 ![Vimma theme with the Neon Monoliths wallpaper](preview.png)
 
+![The Neon Monoliths wallpaper on its own](preview-wallpaper.png)
+
 ## Install
 
 ```sh
