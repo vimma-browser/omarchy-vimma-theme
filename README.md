@@ -4,6 +4,8 @@ An [Omarchy](https://omarchy.org) theme in the colours of [Vimma](https://vimma.
 keyboard-first browser: a deep teal-black background, aqua accent and a magenta neon. With it,
 the terminal, editor, bar and lock screen match Vimma's own default theme.
 
+![Vimma theme with the Neon Monoliths wallpaper](preview.png)
+
 ## Install
 
 ```sh
